@@ -13,7 +13,7 @@ Mainly, the development of this program is aimed at learning and training as a p
 ## Goals
 - [x] Add a new user interface :tada:
 - [x] Mass creation of disks on machine :wrench:
-- [ ] Cleaning virtual machine disks
+- [X] Cleaning virtual machine disks
 - [ ] Massive silent installation
 - [ ] Auto driver detection in virtual machine
 
