@@ -1,6 +1,6 @@
 # MultiTool-Virtualbox
 
-<img align="right" width="225" src="https://github.com/ikkxeer/MultiTool-Virtualbox/blob/main/img/logo.png?raw=true" />
+<img align="right" width="250" src="https://github.com/ikkxeer/MultiTool-Virtualbox/blob/main/img/logo.png?raw=true" />
 
 # Description :blue_book:
 Welcome to a great project and personal challenge how to develop, this project is about a program to facilitate automation in virtualbox and make a support program.
